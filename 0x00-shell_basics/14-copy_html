@@ -1,2 +1,2 @@
 #!/bib/bash
-cp -un *.html ../ 
+cp  -un *.html ../ 
